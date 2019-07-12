@@ -1,0 +1,57 @@
+bbsp v5.0.1 rel (Jul 30 2002)
+Submit detailed bug reports to (zoner@gearboxsoftware.com)
+-----  BEGIN  bbsp -----
+Command line: f:\uploads\bbsp.exe -nowater -verbose -blscale 1 -ilscale 1 -maxnodesize 65535 terrainmapnew 
+
+-= Current bbsp Settings =-
+Name               |  Setting  |  Default
+-------------------|-----------|-------------------------
+threads             [       8 ] [  Varies ]
+verbose             [      on ] [     off ]
+log                 [      on ] [      on ]
+developer           [       0 ] [       0 ]
+chart               [     off ] [     off ]
+estimate            [     off ] [     off ]
+priority            [  Normal ] [  Normal ]
+
+nowater             [      on ] [     off ]
+onlyents            [     off ] [     off ]
+noclip              [     off ] [     off ]
+nofill              [     off ] [     off ]
+notjunc             [     off ] [     off ]
+build lighting bsp  [      on ] [      on ]
+max node size       [   65535 ] [    1024 ] (Min 64) (Max 65536)
+base lightmap scale [       1 ] [      16 ]
+inc lightmap scale  [       1 ] [      16 ]
+
+
+===LoadMapFile===
+Current directory is 'C:\Users\Dylan\AppData\Local\Temporary Projects\OvenCompileServer\bin\Debug'
+Error: Error opening terrainmapnew.map (errno 2 : No such file or directory)
+
+-----   END   bbsp -----
+
+
+
+bvis v5.0.1 rel (Jul 30 2002)
+Submit detailed bug reports to (zoner@gearboxsoftware.com)
+-----  BEGIN  bvis -----
+Command line: f:\uploads\bvis.exe -threads 8 -full -low terrainmapnew 
+>> There was a problem compiling the map.
+>> Check the file terrainmapnew.log for the cause.
+
+-----   END   bvis -----
+
+
+
+brad v5.0.1 rel (Jul 30 2002)
+Submit detailed bug reports to (zoner@gearboxsoftware.com)
+-----  BEGIN  brad -----
+Command line: f:\uploads\brad.exe -threads 8 -bounce 2 -extra -low -scale 1.0 -coring 0.001 -dlight 10 -maxlight 188 -dscale 1 -scale 2 -sky 1 -fade 1 -sparse terrainmapnew 
+>> There was a problem compiling the map.
+>> Check the file terrainmapnew.log for the cause.
+
+-----   END   brad -----
+
+
+

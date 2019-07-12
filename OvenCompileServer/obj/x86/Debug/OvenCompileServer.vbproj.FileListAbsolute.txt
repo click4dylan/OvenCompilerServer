@@ -1,0 +1,11 @@
+I:\Visual Studio 2012\OvenCompileServer\OvenCompileServer\bin\x86\Debug\OvenCompileServer.exe.config
+I:\Visual Studio 2012\OvenCompileServer\OvenCompileServer\obj\x86\Debug\OvenCompileServer.Resources.resources
+I:\Visual Studio 2012\OvenCompileServer\OvenCompileServer\obj\x86\Debug\OvenCompileServer.vbproj.GenerateResource.Cache
+I:\Visual Studio 2012\OvenCompileServer\OvenCompileServer\bin\x86\Debug\OvenCompileServer.exe
+I:\Visual Studio 2012\OvenCompileServer\OvenCompileServer\bin\x86\Debug\OvenCompileServer.pdb
+I:\Visual Studio 2012\OvenCompileServer\OvenCompileServer\bin\x86\Debug\OvenCompileServer.xml
+I:\Visual Studio 2012\OvenCompileServer\OvenCompileServer\bin\x86\Debug\ICSharpCode.SharpZipLib.dll
+I:\Visual Studio 2012\OvenCompileServer\OvenCompileServer\obj\x86\Debug\OvenCompileServer.vbprojResolveAssemblyReference.cache
+I:\Visual Studio 2012\OvenCompileServer\OvenCompileServer\obj\x86\Debug\OvenCompileServer.exe
+I:\Visual Studio 2012\OvenCompileServer\OvenCompileServer\obj\x86\Debug\OvenCompileServer.xml
+I:\Visual Studio 2012\OvenCompileServer\OvenCompileServer\obj\x86\Debug\OvenCompileServer.pdb
